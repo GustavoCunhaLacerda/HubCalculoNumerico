@@ -35,8 +35,8 @@ A ideia é baseada no website <a href="https://math.tools/">Math.Tools</a>.<p>
 ## 🚀 Tecnologias
 
 - Python
-- Pytorch
-- BlazeFace*
+- Flask
+- React
 
 ## 💻 Começando
 
