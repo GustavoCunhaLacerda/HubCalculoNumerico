@@ -30,7 +30,7 @@
 ## 👨🏻‍💻 Sobre o projeto
 
 <p align="justify"> Esse projeto surgiu como uma maneira de treinar novas tecnologias e aplicar python no backend para o desenvolvimento de uma aplicação web. <br>
-A ideia é baseada no website [Math.Tools](https://math.tools/)<p>
+A ideia é baseada no website <a href="https://math.tools/">Math.Tools</a>.<p>
 
 ## 🚀 Tecnologias
 
